@@ -6,3 +6,5 @@ Notebooks en Python, sobre los Ejercicios Practicos del curso de Machine Learnin
 ⚠️ 🚧 ¡¡¡¡ Repositorio en construccion !!!!
 
 
+Ejercicio  1 : Estadistica -->	Distribuciones de Probabilidad
+
