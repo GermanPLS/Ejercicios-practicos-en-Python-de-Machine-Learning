@@ -10,3 +10,4 @@ Notebooks en Python, sobre los Ejercicios Practicos del curso de Machine Learnin
 
 [Ejercicio 2 : Dataset Iris](https://github.com/GermanPLS/Ejercicios-practicos-en-Python-de-Machine-Learning/blob/bb453726dcf994af874e749b87f3255f2e98073b/Dataset%20Iris/Ejercicio%202%20-%20Iris.ipynb)
 
+[Ejercicio 3 : Pandas y Valores Faltantes](https://github.com/GermanPLS/Ejercicios-practicos-en-Python-de-Machine-Learning/blob/bb453726dcf994af874e749b87f3255f2e98073b/Dataset%20Iris/Ejercicio%202%20-%20Iris.ipynb)
