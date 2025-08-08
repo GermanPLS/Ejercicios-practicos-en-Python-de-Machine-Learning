@@ -1,7 +1,9 @@
 # Ejercicios-practicos-en-Python-de-Machine-Learning
 
-Notebooks en Python, sobre los Ejercicios Practicos de distintos cursos que fui tomando de Machine Learning.
+Notebooks en Python, sobre los Ejercicios Practicos del Curso de Machine Learning, Educacion IT.
 
+
+URL = https://www.educacionit.com/curso-de-machine-learning-fundamentos
 
 ## ⚠️ 🚧 ¡¡¡¡ Repositorio en construccion !!!!
 
